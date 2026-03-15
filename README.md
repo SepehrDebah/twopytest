@@ -1,0 +1,1 @@
+python3 -m pytest -v --cov=solution --cov-report=term-missing
